@@ -4,10 +4,10 @@ import Footer from "../Footer/Footer";
 
 const Root = () => {
   return (
-    <div>
+    <div className="mx-w-[1540px] mx-auto">
       <Navbar></Navbar>
-      <Outlet>g</Outlet>
-      <Footer></Footer>
+      <Outlet></Outlet>
+      {/* <Footer></Footer> */}
     </div>
   );
 };

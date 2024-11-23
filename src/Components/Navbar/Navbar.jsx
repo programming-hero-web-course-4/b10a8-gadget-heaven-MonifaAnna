@@ -1,6 +1,6 @@
 const Navbar = () => {
   return (
-    <div className="navbar bg-[#9538E2] text-white py-10">
+    <div className="navbar bg-[#9538E2] px-[130px] text-white py-10">
       <div className="navbar-start">
       <a className="btn btn-ghost text-xl">Gadget Heaven</a>
       </div>
