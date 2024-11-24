@@ -1,0 +1,198 @@
+
+{
+    "Laptops": [
+      {
+        "product_id": "1",
+        "product_title": "Gaming Laptop",
+        "product_image": "https://i.ibb.co.com/8xkcbyz/laptop-1.png",
+        "category": "Laptops",
+        "price": 999.99,
+        "description": "High-performance gaming laptop with advanced graphics.",
+        "specification": [
+          "Intel Core i7",
+          "16GB RAM",
+          "1TB SSD",
+          "NVIDIA RTX 3060"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "2",
+        "product_title": "Ultrabook Laptop",
+        "product_image": "https://i.ibb.co.com/D8T7Xhv/laptop-2.png",
+        "category": "Laptops",
+        "price": 799.99,
+        "description": "Sleek and lightweight ultrabook for everyday productivity.",
+        "specification": [
+          "Intel Core i5",
+          "8GB RAM",
+          "512GB SSD",
+          "Integrated Graphics"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": "3",
+        "product_title": "2-in-1 Convertible Laptop",
+        "product_image": "https://i.ibb.co.com/0Zs5rnx/laptop-3.png",
+        "category": "Laptops",
+        "price": 699.99,
+        "description": "Versatile 2-in-1 laptop that doubles as a tablet.",
+        "specification": [
+          "AMD Ryzen 5",
+          "8GB RAM",
+          "256GB SSD",
+          "Touchscreen Display"
+        ],
+        "availability": false,
+        "rating": 4.4
+      },
+      {
+        "product_id": "4",
+        "product_title": "Business Laptop",
+        "product_image": "https://i.ibb.co.com/r5C1KQR/laptop-4.png",
+        "category": "Laptops",
+        "price": 1199.99,
+        "description": "Premium laptop designed for business professionals.",
+        "specification": [
+          "Intel Core i9",
+          "32GB RAM",
+          "1TB SSD",
+          "4K Display"
+        ],
+        "availability": true,
+        "rating": 4.9
+      }
+    ],
+    "Accessories": [
+      {
+        "product_id": "5",
+        "product_title": "Wireless Mouse",
+        "product_image": "https://i.ibb.co.com/mSQtPcP/mouse.png",
+        "category": "Accessories",
+        "price": 29.99,
+        "description": "Ergonomic wireless mouse with adjustable DPI.",
+        "specification": [
+          "Bluetooth Connectivity",
+          "Rechargeable Battery",
+          "Silent Click"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "6",
+        "product_title": "Mechanical Keyboard",
+        "product_image": "https://i.ibb.co.com/qmJGFkC/keyboard.png",
+        "category": "Accessories",
+        "price": 69.99,
+        "description": "RGB backlit mechanical keyboard for gaming.",
+        "specification": [
+          "Customizable RGB Lighting",
+          "Blue Switches",
+          "USB-C Connection"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "7",
+        "product_title": "Laptop Stand",
+        "product_image": "https://i.ibb.co.com/wBQWkxx/stand.png",
+        "category": "Accessories",
+        "price": 39.99,
+        "description": "Adjustable laptop stand for better ergonomics.",
+        "specification": [
+          "Aluminum Build",
+          "Height Adjustable",
+          "Supports up to 17-inch Laptops"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": "8",
+        "product_title": "Noise-Cancelling Headphones",
+        "product_image": "https://i.ibb.co.com/CJFtT6Y/headpohne.png",
+        "category": "Accessories",
+        "price": 199.99,
+        "description": "High-quality headphones with active noise cancellation.",
+        "specification": [
+          "Bluetooth 5.0",
+          "40-hour Battery Life",
+          "Built-in Microphone"
+        ],
+        "availability": false,
+        "rating": 4.8
+      }
+    ],
+    "Phones": [
+      {
+        "product_id": "9",
+        "product_title": "Flagship Smartphone",
+        "product_image": "https://i.ibb.co.com/XYdhVbn/mble-1.png",
+        "category": "Phones",
+        "price": 999.99,
+        "description": "Top-tier smartphone with cutting-edge technology.",
+        "specification": [
+          "6.7-inch AMOLED Display",
+          "128GB Storage",
+          "5G Connectivity",
+          "Triple Camera System"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": "10",
+        "product_title": "Mid-Range Smartphone",
+        "product_image": " https://i.ibb.co.com/1Jy6jDp/mble-2.png",
+        "category": "Phones",
+        "price": 499.99,
+        "description": "Affordable smartphone with excellent features.",
+        "specification": [
+          "6.4-inch OLED Display",
+          "64GB Storage",
+          "4G Connectivity",
+          "Dual Camera System"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "11",
+        "product_title": "Budget Smartphone",
+        "product_image": "https://i.ibb.co.com/BswRgQG/mble-3.png",
+        "category": "Phones",
+        "price": 199.99,
+        "description": "Cost-effective smartphone for basic needs.",
+        "specification": [
+          "6.1-inch LCD Display",
+          "32GB Storage",
+          "3G Connectivity",
+          "Single Camera"
+        ],
+        "availability": false,
+        "rating": 4.2
+      },
+      {
+        "product_id": "12",
+        "product_title": "Foldable Smartphone",
+        "product_image": "https://i.ibb.co.com/3R3XN36/mble-4.png",
+        "category": "Phones",
+        "price": 1499.99,
+        "description": "Innovative foldable smartphone for multitasking.",
+        "specification": [
+          "7.2-inch Foldable AMOLED Display",
+          "256GB Storage",
+          "5G Connectivity",
+          "Quad Camera System"
+        ],
+        "availability": true,
+        "rating": 4.8
+      }
+    ]
+  }
+  
